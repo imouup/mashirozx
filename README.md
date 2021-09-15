@@ -2,7 +2,7 @@
 
 <img alt="GitHub stats" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api?username=mashirozx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
 
-- 🔭 I’m currently working on Vue and uni-app development;
+- 🔭 I’m currently working on Vue and Flutter development;
 - 🌱 I’m currently learning Rust and [rCore](https://github.com/rcore-os/rCore);
 - 🌈 I’m looking for collaborators on [sakura-next](https://github.com/mashirozx/sakura-next);
 - 💬 Ask me about anything tech related, I am happy to help;
