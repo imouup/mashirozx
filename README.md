@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Vue and Flutter development;
 - 🌱 I’m currently learning Rust and [rCore](https://github.com/rcore-os/rCore);
-- 🌈 I’m looking for collaborators on [sakura-next](https://github.com/mashirozx/sakura-next);
+- 🌈 I’m looking for collaborators on [sakura-next](https://github.com/mashirozx/sakura/tree/next);
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📫 It's OK to reach me through the email on this page;
 - ⚡ Fun fact: I like rebasing and `--force` pushing my commits 😃
