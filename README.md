@@ -1,6 +1,6 @@
 ### Hi there, this is Mashiro 👋
 
-<img alt="GitHub stats" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api?username=mashirozx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
+<img alt="GitHub stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api?username=mashirozx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
 
 - 🔭 I’m currently working on Vue and Flutter development;
 - 🌱 I’m currently learning Rust and [rCore](https://github.com/rcore-os/rCore);
@@ -11,7 +11,7 @@
 
 <!--<img alt="Top langs" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api/top-langs/?username=mashirozx&hide=smali,smarty&&langs_count=20&layout=compact" width="500">-->
 
-<img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mashirozx&layout=compact" width="500">
+<img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=mashirozx&layout=compact" width="500">
 
 <img alt="Genshin game card" src="https://genshin-card.getloli.com/49/169665493.png" width="500">
 
