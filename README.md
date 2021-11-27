@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Vue, React and Flutter development;
 - 🌱 I’m currently learning Java, Rust and Go;
-- 🌈 I’m looking for collaborators on [sakura-next](https://github.com/mashirozx/sakura/tree/next);
+<!-- 🌈 I’m looking for collaborators on [sakura-next](https://github.com/mashirozx/sakura/tree/next);-->
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📫 It's OK to reach me through the email on this page;
 - ⚡ Fun fact: I wanna be a game developer 😃
