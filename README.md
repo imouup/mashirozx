@@ -3,7 +3,7 @@
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mashirozx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
 
 - 🔭 I’m currently working on Vue, React and Flutter development;
-- 🌱 I’m currently learning Rust and Go;
+- 🌱 I’m currently learning Java, Rust and Go;
 - 🌈 I’m looking for collaborators on [sakura-next](https://github.com/mashirozx/sakura/tree/next);
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📫 It's OK to reach me through the email on this page;
