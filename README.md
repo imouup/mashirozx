@@ -10,7 +10,7 @@
 - 📫 It's OK to reach me through the email on this page;
 - ⚡ Fun fact: I wanna be a game developer 😃
 
-<!--<img alt="Top langs" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api/top-langs/?username=mashirozx&hide=smali,smarty&&langs_count=20&layout=compact" width="500">-->
+<!--<img alt="Top langs" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/top-langs/?username=mashirozx&layout=compact&langs_count=8&hide=smali,html,smarty,css,haml" width="500">-->
 
 <img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=mashirozx&layout=compact" width="500">
 
