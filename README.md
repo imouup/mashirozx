@@ -10,9 +10,9 @@
 
 <!--<img alt="Top langs" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api/top-langs/?username=mashirozx&hide=smali,smarty&&langs_count=20&layout=compact" width="500">-->
 
-<img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=mashirozx&layout=compact" width="500">
-
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=mashirozx&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
+
+<img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=mashirozx&layout=compact" width="500">
 
 <img alt="Genshin game card" src="https://genshin-card.getloli.com/49/169665493.png" width="500">
 
