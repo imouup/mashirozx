@@ -12,6 +12,8 @@
 
 <img alt="wakatime stats" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/wakatime?username=mashirozx&layout=compact" width="500">
 
+<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=mashirozx&column=4&theme=gruvbox&margin-w=15&no-frame=true" width="500">
+
 <img alt="Genshin game card" src="https://genshin-card.getloli.com/49/169665493.png" width="500">
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
