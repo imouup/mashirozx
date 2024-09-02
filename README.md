@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Rust and Go;<!-- 🌈 I’m looking for collaborators on [sakura-next](https://github.com/mashirozx/sakura/tree/next);-->
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📫 It's OK to reach me through the email on this page;
-- ⚡ Fun fact: I wanna be a game developer 😃
+- ⚡ Fun fact: I wanna be a game developer 😎
 
 <!--<img alt="Top langs" src="https://github-readme-stats-git-main-mashirozx.vercel.app/api/top-langs/?username=mashirozx&layout=compact&langs_count=8&hide=smali,html,smarty,css,haml" width="500">-->
 
